@@ -22,7 +22,7 @@ while i < playercount:
 teir1games = playercount/playerspergame
 random.shuffle(playerlist)
 
-
+print(playerlist[0].firstname)
 
 
 
